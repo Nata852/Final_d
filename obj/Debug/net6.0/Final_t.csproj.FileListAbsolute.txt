@@ -1,0 +1,15 @@
+D:\Final_t\bin\Debug\net6.0\Final_t.exe
+D:\Final_t\bin\Debug\net6.0\Final_t.deps.json
+D:\Final_t\bin\Debug\net6.0\Final_t.runtimeconfig.json
+D:\Final_t\bin\Debug\net6.0\Final_t.dll
+D:\Final_t\bin\Debug\net6.0\Final_t.pdb
+D:\Final_t\obj\Debug\net6.0\Final_t.csproj.AssemblyReference.cache
+D:\Final_t\obj\Debug\net6.0\Final_t.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_t\obj\Debug\net6.0\Final_t.AssemblyInfoInputs.cache
+D:\Final_t\obj\Debug\net6.0\Final_t.AssemblyInfo.cs
+D:\Final_t\obj\Debug\net6.0\Final_t.csproj.CoreCompileInputs.cache
+D:\Final_t\obj\Debug\net6.0\Final_t.dll
+D:\Final_t\obj\Debug\net6.0\refint\Final_t.dll
+D:\Final_t\obj\Debug\net6.0\Final_t.pdb
+D:\Final_t\obj\Debug\net6.0\Final_t.genruntimeconfig.cache
+D:\Final_t\obj\Debug\net6.0\ref\Final_t.dll
